@@ -33,23 +33,39 @@ flutter run
 
 -----------
 ## 🖼️ صور للتطبيق 
+
 ### صفحة البداية
-![Splash Screen](docs/screenshots/splashscreen.png)
+![Splash Screen](docs/screenshots/splash.png)
+
 ### صفحة نبذة عن التطبيق 
-![Welcome Screen](docs/screenshots/welcomescreen.png)
+![Welcome Screen](docs/screenshots/welcome.png)
+
+---
+
 ### صفحة التسجيل 
 ![Signup](docs/screenshots/signup.png)
+
+---
+
 ### صفحة تسجيل دخول الشركة
 ![Company Signin](docs/screenshots/company_signin.png)
+
 ### صفحة معلومات الشركة 
 ![Company Profile](docs/screenshots/company_profile.png)
+
 ### الصفحة الرئيسية للشركة 
 ![Company HomePage](docs/screenshots/company_home.png)
+
+---
+
 ### صفحة تسجيل دخول المتقاعدين
 ![Expert Signin](docs/screenshots/expert_signin.png)
+
 ### صفحة معلومات المتقاعدين
 ![Expert Profile](docs/screenshots/expert_profile.png)
+
 ### الصفحة الرئيسية للمتقاعدين
 ![Expert HomePage](docs/screenshots/expert_home.png)
+
 ### صفحة خبرات المتقاعدين 
 ![Expert Experience](docs/screenshots/experience.png)
