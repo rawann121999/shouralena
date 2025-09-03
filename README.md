@@ -22,5 +22,9 @@
 ```bash
 flutter pub get
 flutter run
+
+
+
+
 ![Splash Screen](splash.png)
 
