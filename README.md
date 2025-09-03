@@ -16,7 +16,8 @@
 1. تأكد من تثبيت Flutter 3.x و Dart.
 2. اربط مشروعك مع Firebase وضع ملفات الإعداد (لا ترفعها للمستودع):
    - `android/app/google-services.json`
-   - `ios/Runner/GoogleService-Info.plist`## 🚀 تشغيل التطبيق
+   - `ios/Runner/GoogleService-Info.plist`##
+   - 🚀 تشغيل التطبيق
 ```bash
 flutter pub get
 flutter run
