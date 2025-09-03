@@ -32,4 +32,4 @@ flutter pub get
 flutter run
 
 
-![Image Alt](https://github.com/rawann121999/shouralena/blob/760047ea8fef8f4061b8a968dc22770ce3c40506/splash.png)
+![Splash Screen](<docs/screenshots/splash.png>)
