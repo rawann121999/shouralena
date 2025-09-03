@@ -24,7 +24,7 @@ flutter run
 ## 🖼️ صور للتطبيق
 
 ### صفحة البداية
-![صفحة البداية](docs/screenshots/splash.png)
+<img src="docs/screenshots/splash.png" alt="صفحة البداية" width="300">
 
 ### صفحة التسجيل
 ![صفحة التسجيل](docs/screenshots/signup.png)
