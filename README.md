@@ -33,8 +33,7 @@ flutter run
 
 
 
-
-![image alt](https://github.com/rawann121999/shouralena/blob/ae436f1788d8a8e3b91e0cce63ac44a61efbee93/splash.png)
+https://github.com/rawann121999/shouralena/blob/fa1c6c280aaf786b4d36ae01b97c7a00c94e06bf/docs/screenshots/splash.png
 
 ### صفحة نبذة عن التطبيق 
 ![Welcome Screen](docs/screenshots/welcome.png)
