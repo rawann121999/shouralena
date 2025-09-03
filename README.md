@@ -54,7 +54,7 @@ flutter run
 ![Company Profile](docs/screenshots/company_profile.png)
 
 ### الصفحة الرئيسية للشركة 
-[![Company HomePage]([docs/screenshots/company_home.png](https://github.com/rawann121999/shouralena/blob/main/docs/screenshots/company_home.png#:~:text=.DS_Store-,company_home,-.png))](https://github.com/rawann121999/shouralena/blob/e2d3e760e23ff82bfe194f53104abb504795b501/company_home.png)
+[![company home]([docs/screenshots/company_home.png](https://github.com/rawann121999/shouralena/blob/main/docs/screenshots/company_home.png#:~:text=.DS_Store-,company_home,-.png))](https://github.com/rawann121999/shouralena/blob/e2d3e760e23ff82bfe194f53104abb504795b501/company_home.png)
 
 ---
 
