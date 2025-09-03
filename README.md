@@ -27,9 +27,12 @@
    - `android/app/google-services.json`
    - `ios/Runner/GoogleService-Info.plist`
 3. نفّذ الأوامر:
+   
 ```bash
 flutter pub get
 flutter run
 
 
-![Splash Screen](<docs/screenshots/splash.png>)
+
+![Splash Screen](splash.png)
+
