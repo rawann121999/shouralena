@@ -29,7 +29,7 @@ flutter run
 ## 🖼️ صور للتطبيق
 
 ### صفحة البداية
-![Splash Screen](docs/screenshots/splash.png)
+![splash](file:///Users/rawan/Desktop/shouralena/docs/screenshots/splash.png)
 
 ### صفحة التسجيل
 ![Signup](docs/screenshots/signup.png)
