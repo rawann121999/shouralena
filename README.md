@@ -31,10 +31,9 @@
 flutter pub get
 flutter run
 
------------
-## 🖼️ صور للتطبيق 
 
-### صفحة البداية
+
+
 ![image alt](https://github.com/rawann121999/shouralena/blob/ae436f1788d8a8e3b91e0cce63ac44a61efbee93/splash.png)
 
 ### صفحة نبذة عن التطبيق 
