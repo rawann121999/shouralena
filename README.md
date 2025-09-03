@@ -32,39 +32,4 @@ flutter pub get
 flutter run
 
 
-
-https://github.com/rawann121999/shouralena/blob/fa1c6c280aaf786b4d36ae01b97c7a00c94e06bf/docs/screenshots/splash.png
-
-### صفحة نبذة عن التطبيق 
-![Welcome Screen](docs/screenshots/welcome.png)
-
----
-
-### صفحة التسجيل 
-![Signup](docs/screenshots/signup.png)
-
----
-
-### صفحة تسجيل دخول الشركة
-![Company Signin](docs/screenshots/company_signin.png)
-
-### صفحة معلومات الشركة 
-![Company Profile](docs/screenshots/company_profile.png)
-
-### الصفحة الرئيسية للشركة 
-[![company home]([docs/screenshots/company_home.png](https://github.com/rawann121999/shouralena/blob/main/docs/screenshots/company_home.png#:~:text=.DS_Store-,company_home,-.png))](https://github.com/rawann121999/shouralena/blob/e2d3e760e23ff82bfe194f53104abb504795b501/company_home.png)
-
----
-
-### صفحة تسجيل دخول المتقاعدين
-![Expert Signin](docs/screenshots/expert_signin.png)
-
-### صفحة معلومات المتقاعدين
-![Expert Profile](docs/screenshots/expert_profile.png)
-
-### الصفحة الرئيسية للمتقاعدين
-![Expert HomePage](docs/screenshots/expert_home.png)
-
-### صفحة خبرات المتقاعدين 
-![Expert Experience](docs/screenshots/experience.png)
-
+![Image Alt](https://github.com/rawann121999/shouralena/blob/760047ea8fef8f4061b8a968dc22770ce3c40506/splash.png)
