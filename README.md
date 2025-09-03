@@ -26,6 +26,7 @@ flutter pub get
 
 
 
-![Splash Screen](https://raw.githubusercontent.com/rawann121999/shouralena/main/splash.png)
+![Splash Screen](https://raw.githubusercontent.com/rawann121999/shouralena/main/docs/screenshots/splash.png)
+
 
 
