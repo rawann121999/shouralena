@@ -35,7 +35,7 @@ flutter run
 ## 🖼️ صور للتطبيق 
 
 ### صفحة البداية
-![Splash Screen]([docs/screenshots/splash.png](https://github.com/rawann121999/shouralena/blob/main/docs/screenshots/splash.png#:~:text=splash.-,png,-welcome.png))
+![image alt](https://github.com/rawann121999/shouralena/blob/ae436f1788d8a8e3b91e0cce63ac44a61efbee93/splash.png)
 
 ### صفحة نبذة عن التطبيق 
 ![Welcome Screen](docs/screenshots/welcome.png)
